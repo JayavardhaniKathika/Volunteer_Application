@@ -1,3 +1,3 @@
 # Volunteer_Application
 
-This application connects volunteers with requesters.
+This application connects volunteers with the requesters.
